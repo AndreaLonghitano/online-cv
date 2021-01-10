@@ -23,13 +23,15 @@
 
     </div><!--//meta-->
 
-    {% if education.details %}
+    {% if education.subjects %}
     <div class="details">
-      {{ education.details | markdownify }}
+      <u>Main subjects</u>: 
+      {{ education.subjects}}
     </div><!--//details-->
     {% endif %}
 
   </div><!--//item-->
+  <br/>
   {% endfor %}
 
 </section><!--//section-->
