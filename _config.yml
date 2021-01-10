@@ -13,7 +13,7 @@ theme_skin: blue # blue turquoise green berry orange ceramic
 chrome_mobile_color: #ffa500 #use hex colors (ex:#1976d2) or leave empty if you don't want a color for chrome mobile searchbar
 
 # Tracker
-analytics: G-GFKF6CV7XE   ## I will add them when I setup everything
+analytics: UA-186899629-1 ## I will add them when I setup everything
 
 ##abouth-theme
 about: False  ##set to any value if you want to display it
