@@ -1,0 +1,22 @@
+{% assign addresses = site.data.address %}
+{% if addresses %}
+<div class="address-container container-block">
+  <h2 class="container-block-title">
+    Contact address
+  </h2>
+
+  {% for ele in addresses.address %}
+    <div class="item">
+      <div class="details">
+          <u><a href='http://maps.google.com/?q={{ele.details}}' target='_blank'>
+          {{ele.details}}</a></u>
+          </div>
+    </div><!--//item-->
+  {% endfor %}
+
+
+</div>
+{% endif %}
+
+
+

@@ -22,11 +22,11 @@
   {% include contact.html %}
 
 
-  <!--
+  {% if sidebar.address %}
+    {% include address.html %}
+  {% endif %}
 
-    
-  -->
-
+  
   {% include language.html %}
   {% include interests.html %}
 
