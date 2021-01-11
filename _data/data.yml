@@ -112,7 +112,7 @@ projects:
         link: https://github.com/AndreaLonghitano/DatabaseProject
         tagline: "Development of a web application which enables users to create events and invite people. 
                   The front-end was entirely developed using CSS,JavaScript and some frameworks like BootStrap and JQuery. 
-                  The back-end was entirely developed in PHP, which interacts with a RDBMS.Here the entire project."
+                  The back-end was entirely developed in PHP, which interacts with a RDBMS (MariaDB)."
 
       - title: Safe Streets
         link: 
