@@ -128,6 +128,10 @@ projects:
         tagline: "Three Kaggle competitions developed using Tensorflow and Google Colab as environment.The
                   tasks were: Image Classification,Image Segmentation,Visual Question Answering."
 
+      - title : TextEditorPyQt5
+        link : https://github.com/AndreaLonghitano/TextEditorPyQt
+        tagline: "Very simple editor written in PyQt in order to learn this wonderful library"
+
 #publications: 
 #    title: 
 #    intro: 
