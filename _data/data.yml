@@ -4,218 +4,217 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in the main page
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    # Profile information
+    name: Andrea Longhitano
+    tagline: Engineer - Solution Building
+    avatar: photo.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
+    email: andrealonghitano96@gmail.com
+    phone: 334 722 4227
+    website: tinyurl.com/yy7g3n3f #do not add http://
+    linkedin: andrea-longhitano
+    github: AndreaLonghitano
+    telegram: andrealonghitano96 # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf:
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Italian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
-        - idiom: Spanish
-          level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
-          link:
-
-        - item: Snowboarding
-          link:
-
         - item: Cooking
           link:
+
+        - item: Football
+          link:
+
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      My background on engineering helped me to be curious about
+      how real things works in real life. This attitude dragged me in
+      the field of data science, where you can have insights from the
+      data and take decisions even if the mathematical equations
+      behind the process are not well known.
+
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
-        details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+        - degree: MSc in Computer Science &amp; Engineering
+          university: Politecnico di Milano
+          time: 2018 - 2022
+          subjects: |
+            Artificial Neural Networks and Deep Learning,Data Mining and Text Mining,
+            Unstructured and Streaming Data Engineering,Machine Learning,Model Identification
+            and Data Analysis,Natural language Processing,Database 2
+          thesis: >
+            Topic modeling and exploratory analysis of news headlines: the Russia-Ukraine conflict case study
+
+          ## add thed egree
+        - degree: BSc in Informatic Engineering
+          university: Università degli studi di Catania
+          time: 2015 - 2018
+          subjects: |
+            Basi di Dati,Sistemi Operativi,Automatica,Teoria dei Segnali,Comunicazioni
+            Digitali,Elettronica, Elettrotecnica,Calcolatori Elettronici
+          thesis: 
+
+certifications:
+    title: Certifications
+    info:
+        - title: Databricks Lakehouse Fundamentals
+          link: https://credentials.databricks.com/62b1a298-31a9-45c5-b2ed-7b7e15814e1b#gs.xmg5au
+          year: 2023
+          company: DataBricks
+        - title: IBM - Data Science Professional Certificate
+          link: https://www.youracclaim.com/badges/c7c8f866-022d-448c-a314-46ee08674583?source=linked_in_profile
+          year: 2021
+          company: IBM
+
+        - title: Career Service Award
+          link: https://bestr.it/verify/HFDWYGDM7T
+          year: 2020
+          company: Politecnico di Milano
+
+        - title: IELTS Band 6.5
+          link: '#'
+          year: 2018
+          company: IETLS Official
+
+        - title: Trinity Grade 6
+          link: '#'
+          year: 2014
+          company: Trinity College London
+
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Engineer - Solution Building
+        time: 2021 - Present
+        company: Sopra Steria S.p.a
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
-        details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          Full stack web developer of new applications for company ERP with the aim to simplify the daily activities of retail a company offices (back-office, warehouse logistics, production, sales).
+          Main acitivities consist in:
+            - offer solutions which meet internal stakeholders needs;
+            - Front-end and back-end development of web applications to achieve the simplification of daily activities;
+            - support and train the offices during the pre-release phase;
+            - provide helpdesk service and maintanance of software developed.
+
 projects:
     title: Projects
-    intro: >
-      You can list your side projects in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    intro: 
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Scatter Plot WebGL
+        link: https://scatterplot-webgl.herokuapp.com/index.html
+        tagline: "The aim of the project is to create a tool to visualize the Iris Dataset in a 3D environment.
+                 The project was developed in WebGL, trying to implement all the models of the light studied during the course.
+                  In order to improve the data visualization part, PCA and K-means have been implemented with animations."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: Database Project
+        link: https://github.com/AndreaLonghitano/DatabaseProject
+        tagline: "Development of a web application which enables users to create events and invite people. 
+                  The front-end was entirely developed using CSS,JavaScript and some frameworks like BootStrap and JQuery. 
+                  The back-end was entirely developed in PHP, which interacts with a RDBMS (MariaDB)."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Safe Streets
+        link: 
+        tagline: "RASD, DD and Alloy modelling of a crowd-sourced application that provides user with the 
+                  possibiltiy to notify an authority when a parking violation occurs."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Analysis of CoronaVirus Tweets
+        link: 
+        tagline: "The project aims to analyze tweets related to COVID-19, saved on an Elasticsearch cluster, in order to extract statistics and insights"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: ANN Internal Competition
+        link: 
+        tagline: "Three Kaggle competitions developed using Tensorflow and Google Colab as environment.The
+                  tasks were: Image Classification,Image Segmentation,Visual Question Answering."
 
-oss:
-    title: OSS Contributions
-    intro: >
-      You can list your open source software contributions in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    contributions:
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title : TextEditorPyQt5
+        link : https://github.com/AndreaLonghitano/TextEditorPyQt
+        tagline: "Very simple editor written in PyQt in order to learn this wonderful library"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# oss:
+#     title: OSS Contributions
+#     intro: >
+#       You can list your open source software contributions in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     contributions:
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+# 
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# 
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+# 
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+# 
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
-
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: SQL
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: HTML5 & CSS & Javascript
+        level: 80%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: C++ & PHP
+        level: 65%
 
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
+      - name: Jekyll
         level: 60%
+
+      - name: Java & Assembly
+        level: 50%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>

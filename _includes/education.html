@@ -1,4 +1,5 @@
 {% assign education = site.data.data.education %}
+{% assign sidebar = site.data.data.sidebar %}
 {% if education %}
   {% if site.data.data.sidebar.education %}
   <div class="education-container container-block">
@@ -36,13 +37,22 @@
           <h3 class="degree">{{ graduation.degree }}</h3>
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
-
+        {% if graduation.image %}
+          <!-- TO BE IMPLEMENTED -->
+          <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ graduation.image }}" alt="profile picture" />
+        {% endif %}
         <div class="university">{{ graduation.university }}</div>
       </div><!--//meta-->
 
-      {% if graduation.details %}
+      {% if graduation.subjects %}
       <div class="details">
-        {{ graduation.details | markdownify }}
+        <strong>Main subjects:</strong>{{ graduation.subjects }}
+      </div><!--//details-->
+      {% endif %}
+
+      {% if graduation.thesis %}
+      <div class="details">
+        <strong>Thesis:</strong> {{ graduation.thesis }}
       </div><!--//details-->
       {% endif %}
 
