@@ -10,7 +10,7 @@ sidebar:
     about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
     # Profile information
     name: Andrea Longhitano
-    tagline: Engineer - Solution Building
+    tagline: Senior Cloud Solution Architect
     avatar: alonghitano.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -82,6 +82,16 @@ education:
 certifications:
     title: Certifications
     info:
+        - title: Azure AI Fundamentals
+          link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/952F53FB392BDE4E?sharingId=874AE1494886F54
+          year: 2025
+          company: Microsoft
+          
+        - title: Azure Network Engineer Associate
+          link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/B97FB1F84EB4E27C?sharingId=874AE1494886F54
+          year: 2025
+          company: Microsoft
+
         - title: Azure Solution Architect Expert
           link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/7CEBFA4742B4142E?sharingId=874AE1494886F54
           year: 2024
