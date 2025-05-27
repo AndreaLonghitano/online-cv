@@ -41,10 +41,13 @@ sidebar:
     interests:
       title: Interests
       info:
-        - item: Cooking
+        - item: Traveling
           link:
 
-        - item: Football
+        - item: Outdoor Sports
+          link:
+          
+        - item: Hiking & Trekking
           link:
 
 
