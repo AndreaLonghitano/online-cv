@@ -148,8 +148,8 @@ experiences:
         company: Sopra Steria S.p.a
         details: |
           Full stack web developer of new applications for company ERP with the aim to simplify the daily activities of retail a company offices (back-office, warehouse logistics, production, sales).
-          Main acitivities consist in:
-            - Offer solutions which meet internal stakeholders needs;
+          Main activities consist in:
+            - Offer solutions which meet internal stakeholders needs.
             - Developed and maintained dashboards to analyze warehouse inventory and software usage, improving operational visibility and decision-making.
             - Developed APIs for backend services to support warehouse management applications.
             - Developed batch applications that run as scheduled tasks using cron jobs for automated processing.
