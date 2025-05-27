@@ -82,6 +82,22 @@ education:
 certifications:
     title: Certifications
     info:
+        - title: Microsoft Certified: Azure Solution Architect Expert
+          link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/7CEBFA4742B4142E?sharingId=874AE1494886F54
+          year: 2024
+          company: Microsoft
+        - title: HashiCorp Certified: Terraform Associate (003)
+          link: https://www.credly.com/badges/fe25cbbe-2b37-4d6e-8cad-7d58b8f7dc0e/linked_in_profile
+          year: 2024
+          company: Hashicorp
+        - title: Microsoft Certified: Azure Administrator Associate
+          link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/C18B6A37058C0A86?sharingId=874AE1494886F54
+          year: 2024
+          company: Microsoft
+        - title: Microsoft Certified: Azure Fundamentals
+          link: https://learn.microsoft.com/api/credentials/share/en-gb/AndreaLonghitano-8687/26E4834D6EA1256D?sharingId=874AE1494886F54
+          year: 2024
+          company: Microsoft
         - title: Databricks Lakehouse Fundamentals
           link: https://credentials.databricks.com/62b1a298-31a9-45c5-b2ed-7b7e15814e1b#gs.xmg5au
           year: 2023
